@@ -1,0 +1,15 @@
+{
+  "name": "bases_node",
+  "version": "1.0.0",
+  "description": "Aplicacion de linea de comando para generar tablas de multiplicar.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kin Casasbuenas",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.1.0"
+  }
+}
